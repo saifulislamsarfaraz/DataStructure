@@ -1,0 +1,4 @@
+apple  fruit
+icecream  desart
+cat  animal
+squre  shape
